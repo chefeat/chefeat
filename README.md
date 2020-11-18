@@ -1,3 +1,5 @@
+![cover image](https://scontent.ftlv5-1.fna.fbcdn.net/v/t1.0-9/120355330_1224718124571123_1961899178276228403_o.jpg?_nc_cat=110&ccb=2&_nc_sid=e3f864&_nc_ohc=-RmRItRpLWkAX9xBZzO&_nc_ht=scontent.ftlv5-1.fna&oh=4ad19aeeb5da1d248913d3eb3dd7c098&oe=5FDA396E)
+
 # Chefeat
 ## Kitchen Secrets
 
@@ -16,7 +18,7 @@ Chefeat is a social mobile app for recipes based on home-available ingredients. 
 ## Future features:
 1. Search & order home-made food around you.
 2. Trade recipes with other users.
-3. Computer Vision module to detect ingredients by the mobile camera.
+3. Computer Vision module to detect ingredients using smartphones camera.
 4. WEB app.
 
 ## About
@@ -31,3 +33,6 @@ Website: https://www.chefeat.net
 Android: https://play.google.com/store/apps/details?id=com.wahtoeat.whatoeat2
 
 IOS: https://apps.apple.com/il/app/%D7%A1%D7%95%D7%93%D7%95%D7%AA-%D7%91%D7%9E%D7%98%D7%91%D7%97/id1522371433
+
+## Contact Us
+info@chefeat.net
