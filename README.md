@@ -34,7 +34,7 @@ Website: https://www.chefeat.net
 <br />
 Android: https://play.google.com/store/apps/details?id=com.wahtoeat.whatoeat2
 <br />
-IOS: https://apps.apple.com/il/app/%D7%A1%D7%95%D7%93%D7%95%D7%AA-%D7%91%D7%9E%D7%98%D7%91%D7%97/id1522371433
+IOS: https://apps.apple.com/il/app/id1522371433
 
 ## Test User
 Phone number: 052-555-5555
