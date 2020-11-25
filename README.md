@@ -28,6 +28,8 @@ The developers are two students at the Ben-Gurion University Of The Negev in Isr
 This app serves hundreds of users and dozens of daily users which Chefeat hopes to maintain a varied daily menu of dishes.
 
 ## Links
+YouTube: https://youtu.be/jhw3J2-8Niw
+<br />
 Website: https://www.chefeat.net
 <br />
 Android: https://play.google.com/store/apps/details?id=com.wahtoeat.whatoeat2
